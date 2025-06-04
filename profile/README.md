@@ -173,11 +173,3 @@ git config --global commit.template ~/.github/commit.template
 - **ドキュメントやREADMEもコードの一部とみなす**
 
 ---
-
-## 📮 問い合わせ先
-
-不明点・提案がある場合は、チームリーダーまたは以下に Issue を立ててください。
-
-📌 [Issues](https://github.com/qa-dx/team-docs/issues)
-
----
